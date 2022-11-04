@@ -1,0 +1,16 @@
+E=E+T
+E=T
+T=T*F
+T=F
+F=(E)
+F=a
+F=b
+
+
+
+E=EAE
+E=(E)
+E=-E
+E=a
+E=+
+E=*
