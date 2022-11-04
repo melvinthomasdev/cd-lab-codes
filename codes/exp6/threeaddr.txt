@@ -1,4 +1,3 @@
 Three Address
-t1 = a * b
-t2 = c * d
-t3 = t1 + t2
+t1 = b * c
+t2 = a + t1
