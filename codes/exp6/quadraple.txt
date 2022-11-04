@@ -1,5 +1,4 @@
 Quadruple
 OP	O1	O2	RES
-*	a	b	t1
-*	c	d	t2
-+	t1	t2	t3
+*	b	c	t1
++	a	t1	t2
