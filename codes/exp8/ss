@@ -1,0 +1,25 @@
+Enter the number of States :
+3
+
+Enter the number of Terminals :
+2
+
+Enter the 3 States:
+0 1 2
+
+Enter the 2 Terminals:
+a b
+
+Enter the Table:
+
+        a       b       epsln   Is Final? (y/n)
+0       1       -       -       n
+1       -       -       2       n
+2       -       2       -       y
+
+The Epsilon free NFA is :
+
+        a       b       Is Final?
+0       12      -       No
+1       -       2       Yes
+2       -       2       Yes
