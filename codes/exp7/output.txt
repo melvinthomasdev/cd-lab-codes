@@ -1,0 +1,7 @@
+MOV AX,[b]
+MOV BX,[c]
+MUL BX
+MOV DH,AX
+MOV AX,[a]
+ADD AX,BX
+MOV DL,AX
