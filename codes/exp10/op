@@ -1,0 +1,24 @@
+Enter the number of States :
+5
+Enter the 5 States:
+A B C D E
+Enter the number of Terminals :
+2
+Enter the 2 Terminals:
+a b
+Enter the Table :
+
+        a       b       Is Final? (y/n)
+A       B       C       n
+B       B       D       n
+C       B       C       n
+D       B       E       n
+E       B       C       y
+
+
+Minimized DFA :
+
+        a       b       Is Final? (y/n)
+A       B       A       N
+B       B       C       N
+C       B       D       N
